@@ -34,7 +34,7 @@ window.Config = {
     },
     {
       text: '🐜课堂',
-      url: 'http://www.nayikt.vip/'
+      url: 'http://www.mayikt.vip/'
     }
   ]
 };
