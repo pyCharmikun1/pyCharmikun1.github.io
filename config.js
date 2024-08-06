@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '余麻子网站在线监控平台',
+  SiteName: '网站在线监控平台',
 
   // 站点链接
   SiteUrl: '/',
