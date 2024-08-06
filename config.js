@@ -33,8 +33,8 @@ window.Config = {
       url: 'http://www.mayikt.com/'
     },
     {
-      text: '🐜课堂',
-      url: 'http://www.mayikt.vip/'
+      text: '路飞学城',
+      url: 'https://www.luffycity.com/'
     }
   ]
 };
